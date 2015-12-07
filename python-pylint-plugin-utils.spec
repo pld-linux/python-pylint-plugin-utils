@@ -11,6 +11,7 @@ Release:	1
 License:	GPL v2
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/p/pylint-plugin-utils/%{module}-%{version}.tar.gz
+# Source0-md5:	6a4a1b351df33574c7e1650de6032bdb
 URL:		https://github.com/landscapeio/pylint-plugin-utils
 BuildRequires:	rpm-pythonprov
 # for the py_build, py_install macros
