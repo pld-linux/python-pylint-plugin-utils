@@ -7,7 +7,7 @@
 Summary:	Utilities and helpers for writing Pylint plugins
 Name:		python-%{module}
 Version:	0.2.3
-Release:	3
+Release:	4
 License:	GPL v2
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/p/pylint-plugin-utils/%{module}-%{version}.tar.gz
